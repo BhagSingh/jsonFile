@@ -2,37 +2,37 @@
     {
         "id": 1,
         "name": "Car 1",
-        "description": "Description for item 1",
+        "description": " Model A is a masterpiece in compact sedan engineering. With a meticulously crafted interior, it boasts superior comfort and the latest technology. Its efficient fuel consumption combined with impressive horsepower makes it a top choice for urban commuters and long drives alike.1",
         "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960"
     },
     {
         "id": 2,
         "name": "Car 2",
-        "description": "Description for item 2",
+        "description":  The rugged Model B SUV is built for all terrains. Whether it's a city drive or a mountainous journey, this car's powerful engine and durable build ensure a smooth ride. With ample interior space, it can accommodate both passengers and cargo, making it ideal for family trips or adventurous outings.",
         "image": "https://www.theglobeandmail.com/resizer/aYlvRNIN5_Si--4PFc97FAyRxUM=/1500x1000/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/tgam/D2QJEWZS5BCR3K5LYSINSOT7QA.JPG "
     },
     {
         "id": 3,
         "name": "Car 3",
-        "description": "Description for item 3",
+        "description":  "Introducing Model C - a symbol of speed, agility, and grace in automotive engineering. Its aerodynamic design combined with a turbocharged engine offers an exhilarating driving experience. The interiors are as plush as they are ergonomic, ensuring that every journey is a luxury.",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglish.alarabiya.net%2Fvariety%2F2023%2F04%2F12%2FBugatti-to-Rolls-Royce-5-of-the-most-expensive-cars-in-the-world&psig=AOvVaw1Xp4MVxr5zT-RQNtmpalDg&ust=1692468582959000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjVpPjm5oADFQAAAAAdAAAAABAw"
     },
     {
         "id": 4,
         "name": "Car 4",
-        "description": "Description for item 4",
+        "description": "The Model D Convertible is summer embodied in a car. Its retractable roof allows you to feel the wind as you cruise along scenic routes. Its elegant design is complemented by advanced safety features and a state-of-the-art infotainment system, offering both style and substance. ",
         "image": "https://hips.hearstapps.com/hmg-prod/images/p90475606-highres-rolls-royce-phantom-1677268219.jpg?crop=0.663xw:0.496xh;0.136xw,0.372xh&resize=1200:*"
     },
     {
         "id": 5,
         "name": "Car 5",
-        "description": "Description for item 5",
+        "description": " Model E redefines what a hatchback can be. Its compact exterior belies a spacious interior, with advanced modular seating and a trunk that can store more than you'd think. With a focus on fuel efficiency and urban maneuverability, it's the perfect companion for city dwellers.",
         "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2023/01/rolls-royce-phantom.jpeg?q=50&fit=contain&w=767&h=&dpr=1.5"
     },
     {
         "id": 6,
         "name": "Car 6",
-        "description": "Description for item 6",
+        "description": " Model F is the future of driving. This electric vehicle not only boasts zero emissions but also offers fast charging capabilities, ensuring you're always ready to hit the road. Its intuitive onboard computer system provides real-time feedback on energy consumption, range, and more. Experience the blend of innovation and sustainability with Model F.",
         "image": "https://car-images.bauersecure.com/wp-images/3679/720x405/best_luxury_car.jpg"
     }
 ]
